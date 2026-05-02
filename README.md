@@ -73,3 +73,7 @@ Design: Notion x Oxford palette. Oxford navy headers, Notion warm off-white alte
 The system runs end to end from a single cell. Every assumption is explicit, every output is traceable back to a source.
 
 Personal finance tooling built for people who actually think about what they own.
+
+
+## Preview
+<img width="1366" height="387" alt="image" src="https://github.com/user-attachments/assets/4c77ade8-d982-42e4-9ab9-c3b3af27fefa" />
