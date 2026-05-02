@@ -21,6 +21,8 @@ Grounded in Fama-French and Asness QMJ academic research. Every stock in the por
 - Growth: TTM revenue growth (5 quarters), EPS growth, forward EPS estimates
 - Momentum: 12-1 month return, 50/200-day MA signal, RSI
 - Quality: ROE, Debt/EBITDA, interest coverage, Altman Z-score proxy
+
+  
 All four factors are converted to percentile ranks within the universe. High-beta names (beta above 1.5) receive a risk-adjusted multiplier that pulls their score down. Final grades run A through D.
 
 Ethics screening:
