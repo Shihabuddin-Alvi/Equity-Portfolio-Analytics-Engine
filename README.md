@@ -76,4 +76,5 @@ Personal finance tooling built for people who actually think about what they own
 
 
 ## Preview
-<img width="1366" height="387" alt="image" src="https://github.com/user-attachments/assets/4c77ade8-d982-42e4-9ab9-c3b3af27fefa" />
+<img width="961" height="427" alt="image" src="https://github.com/user-attachments/assets/9ef843f3-3352-4748-a064-599062203eeb" />
+
